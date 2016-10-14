@@ -4,4 +4,5 @@ Three sets of shaders in opengl toon shader, blinn phong and vertex manipulation
 
 [OpenGL Teapot link](https://www.youtube.com/watch?v=tdKzCTCurDk)
 
-<img alt="https://www.youtube.com/watch?v=tdKzCTCurDk" src="/teapot.JPG" width="350" />
+<a href="http://www.w3schools.com">
+<img alt="youtube" src="/teapot.JPG" width="350" />
